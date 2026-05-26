@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mani:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-05-26T12:28:05.322186627Z"
+    description: A Helm chart for Kubernetes
+    digest: 324a77d18103f6c55e784bd61ee2871f7d3f32f5f11609000981d9c2a1b7e6bd
+    name: mani
+    type: application
+    urls:
+    - mani-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-05-26T12:28:05.321646799Z"
